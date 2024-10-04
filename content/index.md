@@ -1,5 +1,7 @@
-Hola maestra, estoy probando esta nueva herramienta para poder publlicar las tareas y notas directamente desde la app que utilizo. Digame que le parece
+Hola maestra, estoy probando esta nueva herramienta para poder publicar las tareas y notas directamente desde la app que utilizo. Dígame que le parece
 
 ---
 
 [[regression]]
+
+----
