@@ -75,10 +75,8 @@ En cuanto longitud considero que 3:30 podrian ser  mas que suficiente
 # Preguntas 
 
 
-- Que es la [[regression]] y que es lo que nos cuenta sobre nuestro conjunto de datos multivariados
-	- De que se habla cuando se habla de la regresión de un conjunto de datos de multivariados?, es un numero es una categoria, es una cualidad?
-	- Como se calcula la regresión de un conjunto de datos multivariados 
-	- Es siempre una metrica util obtener la  regresion de una variable respecto a otras?, sino en que casos es conveniente obtener esta metrica 
-- Que es lo que la [[varianza]] nos dice sobre la [[varianza y corelacion|corelacion]]
-- Que es un factor en analisis faactorial y como se relaciona con el [[analisis estadistico multivariado]], se relaciona con [[Principal components analysis]]?
-- que es y para que se utiliza el [[analisis de corelacion canonica]]
+- Que impacto y que rol juega la regresion en el analisis estadistico y el machine learning 
+-  Que es la REGRESSION y que es lo que nos cuenta sobre nuestro conjunto de datos multivariados
+-  De que se habla cuando se habla de la regresión de un conjunto de datos de multivariados?, es un numero es una categoria, es una cualidad? 
+-  Como se calcula la regresión de un conjunto de datos multivariados 
+- Es siempre una metrica util obtener la regresion de una variable respecto a otras?, sino en que casos es conveniente obtener esta metrica
