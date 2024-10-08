@@ -1,2 +1,0 @@
-
-Demien se la come
